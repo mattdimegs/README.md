@@ -1,5 +1,5 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattdimegs&hide=html,css&layout=compact&langs_count=8&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![Matt's github stats](https://github-readme-stats.vercel.app/api?username=mattdimegs&count_private=true&show_icons=true&theme=synthwave&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattdimegs&hide=html,css&layout=compact&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Matt's github stats](https://github-readme-stats.vercel.app/api?username=mattdimegs&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 
